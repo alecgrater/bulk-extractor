@@ -7,5 +7,5 @@ Place main.py in folder containing zip files with iso's. The program will create
 ### All files in directory
 Run main.py. 
 
-### All files in directory
+### Set num of extracts
 Alter the main func call to include num_of_extracts, Run main.py. 
